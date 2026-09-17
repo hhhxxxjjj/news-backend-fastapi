@@ -5,4 +5,5 @@ venv/
 .venv/
 .idea/
 .vscode/
-*.db
+*.db.toutiaovenv/
+.DS_Store
